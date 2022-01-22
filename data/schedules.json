@@ -1,0 +1,5 @@
+{
+	"schedules": [
+		{"date": 0, "time": "22:00", "pin_ids": ["d4"], "value": true}
+	]
+}

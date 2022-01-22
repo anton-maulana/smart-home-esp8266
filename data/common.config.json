@@ -1,0 +1,15 @@
+{
+	"device_type": "xz-w01",
+	"auth": {
+		"username": "admin",
+		"password": "admin"
+	},
+	"firebase": {		
+		"username": "admin",
+		"password": "admin",
+		"firebase_api_key": "AIzaSyBQk3x7YyNAMywVASGb_YeaQMKSUOFRTeA",
+		"firebase_database_url": "home-automation-d8384.firebaseio.com",
+		"firebase_user_email": "maulanaantonant@gmail.com",
+		"firebase_user_password": "maulana1202112"
+	}
+}

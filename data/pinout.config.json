@@ -1,0 +1,6 @@
+{
+	"d4": { "value": true, "io_pin": 2, "name": "" },
+	"d5": { "value": false, "io_pin": 14, "name": "" },
+	"d6": { "value": false, "io_pin": 12, "name": "" },
+	"d7": { "value": false, "io_pin": 13, "name": "" }
+}
